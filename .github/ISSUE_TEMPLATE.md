@@ -8,6 +8,9 @@ BEFORE POSTING YOUR ISSUE:
 ## Issue Overview
 <!-- A brief overview of the issue --->
 
+## Date of issue
+<!-- Provide the date of issue...
+
 ## Describe your environment
 <!-- Provide details about your environment: what editor, browser, and other software you are using and any other specifics to your setup -->
 
